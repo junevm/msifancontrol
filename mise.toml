@@ -1,5 +1,17 @@
 [tools]
-go = "1.26.0"
+go = "latest"
+
+[hooks]
+postinstall = ['mise lock']
+
+
+[env]
+DO_NOT_TRACK = "1"
+
+[settings]
+experimental = true
+quiet = false
+lockfile = true
 
 [tasks.build]
 description = "Build the application"
