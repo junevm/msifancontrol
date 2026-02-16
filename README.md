@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" alt="MSIFanControl logo" width="200" />
+<img src="./assets/logo.png" alt="msifancontrol logo" width="200" />
 
 **Fan control TUI for MSI laptops on Linux.**
 
