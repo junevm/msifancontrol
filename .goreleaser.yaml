@@ -47,10 +47,10 @@ brews:
   - name: msifancontrol
     repository:
       owner: junevm
-      name: homebrew-msifancontrol-tap
+      name: homebrew-tap
       token: "{{ .Env.TAP_GITHUB_TOKEN }}"
     homepage: "https://github.com/junevm/msifancontrol"
-    description: "MSI Fan Control CLI for Linux"
+    description: "🪭 fan control tui for msi laptops using linux"
     license: "MIT"
     install: |
       bin.install "msifancontrol"

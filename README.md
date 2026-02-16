@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./assets/logo.png" alt="msifancontrol logo" width="200" />
 
-**Fan control TUI for MSI laptops on Linux.**
+**🪭 fan control tui for msi laptops using linux**
 
 [**Report Bugs**](https://github.com/junevm/msifancontrol/issues) | [**Releases**](https://github.com/junevm/msifancontrol/releases) | [**Contributing**](#-contributing)
 
@@ -48,7 +48,7 @@ go install github.com/junevm/msifancontrol/cmd/fan@latest
 ### Option 3: Homebrew (Linux)
 
 ```bash
-brew tap junevm/msifancontrol-tap
+brew tap junevm/homebrew-tap
 brew install msifancontrol
 ```
 
