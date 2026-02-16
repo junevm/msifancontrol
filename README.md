@@ -3,7 +3,7 @@
 
 **Fan control TUI for MSI laptops on Linux.**
 
-[**Report Bugs**](https://github.com/junevm/msifancontrol/issues) | [**Releases**](https://github.com/junevm/msifancontrol/releases) | [**Contributing**](#-contributing) | [**License**](#-license)
+[**Report Bugs**](https://github.com/junevm/msifancontrol/issues) | [**Releases**](https://github.com/junevm/msifancontrol/releases) | [**Contributing**](#-contributing)
 
 </div>
 
