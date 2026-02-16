@@ -3,7 +3,7 @@
 
 **🪭 fan control tui for msi laptops using linux**
 
-[**Report Bugs**](https://github.com/junevm/msifancontrol/issues) | [**Releases**](https://github.com/junevm/msifancontrol/releases) | [**Contributing**](#-contributing)
+[**Usage**](#-usage) | [**Report Bugs**](https://github.com/junevm/msifancontrol/issues) | [**Releases**](https://github.com/junevm/msifancontrol/releases) | [**Contributing**](#-contributing)
 
 </div>
 
