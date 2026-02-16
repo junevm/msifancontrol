@@ -1,29 +1,27 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+# Created by https://www.toptal.com/developers/gitignore/api/go
+# Edit at https://www.toptal.com/developers/gitignore?templates=go
 
-# Virtual Environment
-.venv/
-bin/
-lib/
-lib64/
-include/
-share/
-pyvenv.cfg
+### Go ###
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
 
-# Config
-config.py
-config.json
+# Test binary, built with `go test -c`
+*.test
 
-# Build artifacts
-build/
-dist/
-*.spec
-*.egg-info/
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
-# Temporary files
-*.log
-*.tmp
-legacy/
+# Dependency directories (remove the comment below to include it)
+# vendor/
 
+# Go workspace file
+go.work
+
+# End of https://www.toptal.com/developers/gitignore/api/go
