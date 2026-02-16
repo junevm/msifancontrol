@@ -1,0 +1,26 @@
+[tools]
+go = "1.26.0"
+
+[tasks.build]
+description = "Build the application"
+run = """
+go mod tidy
+mkdir -p bin
+go build -o bin/fan cmd/fan/main.go
+"""
+
+[tasks.run]
+description = "Run MSIFanControl (Auto-setup)"
+run = "go run ./cmd/fan"
+
+[tasks.install]
+description = "Install 'fan' to /usr/local/bin"
+depends = ["build"]
+run = """
+sudo cp bin/fan /usr/local/bin/fan
+echo "✅ Installed! You can now run 'sudo fan'"
+"""
+
+[tasks.clean]
+description = "Clean build artifacts"
+run = "rm -rf bin"

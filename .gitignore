@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+
+# Config
+config.py
+config.json
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp
+legacy/
+
