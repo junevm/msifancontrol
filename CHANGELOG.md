@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/junevm/msifancontrol/compare/v1.0.1...v1.0.2) (2026-02-16)
+
+
+### Bug Fixes
+
+* fixed gitignore ([84fc43c](https://github.com/junevm/msifancontrol/commit/84fc43cac2c49682c52bce5c2a1171badc10bc68))
+
 ## [1.0.1](https://github.com/junevm/msifancontrol/compare/v1.0.0...v1.0.1) (2026-02-16)
 
 
