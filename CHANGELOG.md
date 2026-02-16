@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/junevm/msifancontrol/compare/v1.0.2...v1.1.0) (2026-02-16)
+
+
+### Features
+
+* centralized homebrew tap ([14247ed](https://github.com/junevm/msifancontrol/commit/14247edefcb59a3d369688c54dfa0a5368830f09))
+
 ## [1.0.2](https://github.com/junevm/msifancontrol/compare/v1.0.1...v1.0.2) (2026-02-16)
 
 
